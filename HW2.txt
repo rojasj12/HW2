@@ -1,0 +1,44 @@
+Homework #2 
+Name: Joel Rojas 
+Study Group Members: 
+Joel Rojas, Alana Knights, Kyungwhan Cho
+ 
+Results of Lab 1:
+Experiment Protocols:
+*	PP1 Analysis:
+*	Conclusion on Fairness: We got a 6 on the first roll, dice judged to be not fair per PP1.
+*	Probability Analysis:
+*	If the Dice were Fair: 1/6 probability it would be judged to be unfair.
+*	If the Dice were unfair: It would depend on the level of modification that the 
+unfair dice underwent, furthermore a fair dice would be judged to be fair 5/6.
+*	PP2 Analysis:
+*	Conclusion on Fairness:
+*	Decision Rule: Dice is 6, 5 or more times and the dice is unfair. 
+*	My results: Rolled a 6, 9 times-Dice is Unfair.
+*	Class Results: Rolled a 6, 3 times-Dice is Fair.
+*	Probability Analysis:
+*	If dice is rolled 20 times, likely number 6 results is 16.67% of the rolls or 3.33 
+times. Due to the law of large numbers:
+*	Not unusual to get 1 more or less than that.
+*	Not unusual to get 2 more or less than that.
+*	Not unusual to get 3 more or less than that. 
+*	If the dice were fair, the chance it could be judged unfair is 16.67%.
+*	PP3 Analysis:
+*	Conclusion on Fairness:
+*	Decision Rule: Dice is a 6, 19 or more times and the dice is unfair. 
+*	Class Results: Rolled a 6, 17 times, so dice is Fair.
+*	Probability Analysis:
+*	It is fair to say that every conclusion has some confidence level attached.
+*	Boundaries should be set where the results fall out of an expected range of 
+outcomes.
+*	If the dice were fair, the chance it could be judged unfair is 16.67%. 
+*	EP1 (Our Experiment Protocol):
+*	Chosen Protocol: For our Protocol we rolled the dice 50 more times to add to PP3 for a 
+total of 150 rolls. The decision rule was if dice was a 6, 27 or more times it was judged to 
+be unfair.
+*	Conclusion on Fairness:
+*	Class Results: Rolled a 6, 24 times therefore dice ruled to be fair.
+*	Conclusion: I would revise the experiment to be a range of outcomes instead of a set 
+number of times a 6 would be rolled. This will consider the dice being modified for 
+another number or numbers to be rolled disproportionately other than the number 6. I 
+feel this would be a better way to judge fair dice. 
